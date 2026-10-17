@@ -19,7 +19,10 @@ TypeScript ve modern frontend araçlarını öğreniyorum.
 
 ---
 
-### GitHub Stats
+### Portfolyo
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yalinbey&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yalinbey&layout=compact&theme=radical&hide_border=true)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolyomu_Gör-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yln.dev)
+
+> Full Stack Web Developer olarak React, Next.js ve modern teknolojilerle projeler geliştiriyorum.
+
+[Siteyi Ziyaret Et →](https://yln.dev)
